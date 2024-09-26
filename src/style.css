@@ -1,0 +1,36 @@
+.decor-btn-success {
+    background-color: #2cb648;
+}
+
+.gradient-bg {
+    background: linear-gradient(to right, #27b0cf, #28d128);
+    width: 98%;
+    margin: 10px;
+}
+
+.decor-tabel {
+
+}
+
+input[type="checkbox"] {
+    width: 15px;
+    height: 15px;
+}
+
+.decor-pen {
+    color: yellow;
+}
+
+.decor-trash {
+    color: red;
+}
+
+.decor-next {
+    background-color: #b7b2b2;
+    color: gray;
+}
+
+.create-form {
+    width: 800px;
+    height:900px
+}
